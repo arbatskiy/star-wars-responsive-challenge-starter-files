@@ -1,0 +1,29 @@
+h1, p {
+  font-family: Roboto, Arial, sans-serif;
+}
+
+header {
+  background-color: #E8B952;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+header p {
+  margin-top: 0;
+}
+
+.card {
+  border: 1px solid lightgray;
+  margin-bottom: 30px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card-description {
+  padding-left: 15px;
+}
